@@ -2,10 +2,11 @@
 
 ## Clean up your laptop! 💻🧹
 
-###### 4. Mai 2024: Open Education Day
+###### März 2025: Universitätsbibliotheken
 
+joerg.berkel@bfh.ch<br />
 kristelle.pluess@bfh.ch<br />
-joerg.berkel@bfh.ch
+annique.lombard@bfh.ch
 <br /><br />
 Los geht's: https://ige.li/cleanup 👈🏼<br />
 (oder [PDF-Download](cleanup-workshop-oed.pdf))
@@ -24,15 +25,25 @@ Vorteile der Onlineversion (Link oben) dieser Präsentation:
 
 ### ⏳ Ablauf
 
-- 8' Edu-Edition: "Clean Up! 🧹"
-- 3' Themenpitch
-  - 👟 Apps, Automatismen...
-  - ☁️ Cloud, Ablage...
-- 10' 🌐 Browser, Settings + Plugins
-- 4' 👟 oder ☁️
-- 15' DIY mit Support 💬
-- 5' Schlussrunde
+- Intro zur "Clean Up Session! 🧹"
+- Inputs
+ - 🌐 Browser, Settings + Plugins
+ - ☁️ Cloud, Ablage...
+ - 👟 Apps, Automatismen...
+- DIY mit Support 💬
+- Schlussrunde
 
+Note: 
+Zeitplan: 90' (mit ca. 15 Teilnehmenden)
+10:00 Hallo & Vorstellungsrunde
+10:15 Intro & Relevanz (Inputs Jan, Fakten)
+10:22 Themenbereiche (3)
+- (20') Browser / Suchmaschinen (Cookies, Notifications, Autoplay mit Mini-hands on)
+- (15') Ablagen (Bedarf, Austasuch Good Pracice) 
+- (8') Automatismen (YouTube & Co, Smartphone & Apps (UniBE Mobile App))
+11:05 DIY mit Support
+11:20 Schlussrunde mit Take-home messages
+   
 ---
 
 <!-- .slide: data-background="#fff5c1" -->
@@ -40,12 +51,12 @@ Vorteile der Onlineversion (Link oben) dieser Präsentation:
 ### ↩️ Kurzintro
 
 - Name + 2-3 Stichworte
-- Biggest Issue ⏳
+- Zeitfresser / grösstes Problem ⏳
 - Schönste Offline-Aktivität
 
 ---
 
-## 🪝 Aufhänger
+## 🪝 Aufhänger / Fakten
 
 ### Ich vs. Mein Gerät:
 
@@ -53,18 +64,15 @@ Vorteile der Onlineversion (Link oben) dieser Präsentation:
 
 ---
 
-### Themenpitch
-
-#### 👟 Apps, Automatismen, Benachrichtigungen
-
-#### ☁️ Cloud, Ablage, Kollaboration
+### Facts & Figures 
+(Inputs Jan Bieser) 
 
 ---
 
 ### Web-Browser 🌐
 
 - 💬 Welche Browser?
-  - je für Privat / Arbeit / .. ?
+  - je ein Browser für Privat / Arbeit / ... ?
 - "Sinnvolle Settings" einstellen ⚙️
   - Startseite & Suchmaschinen
 
@@ -94,7 +102,7 @@ Fork von https://www.i-dont-care-about-cookies.eu/de
   - [qwant.de](https://qwant.de)
   - [ecosia.org](https://ecosia.org)
   - [searX (meta)](https://searx.space)
-  - AI Search Engines??
+  - Wer benutzt AI Search Engines??
 
 Tipp: Dienste unter https://tosdr.org/ vergleichen 🔍
 
@@ -103,45 +111,8 @@ Tipp: Dienste unter https://tosdr.org/ vergleichen 🔍
 #### Funktionen / Erweiterungen 🧩
 
 - Inkognito-Modus? 🕶️
-- Edge-Browser: 📁 [Custom new Tab](https://microsoftedge.microsoft.com/addons/detail/custom-new-tab/onagfgjlokaciajhjmajljcfanonbmia) als Workaround für "Startseite"
+- Edge-Browser: 📁 [Custom new Tab](https://microsoftedge.microsoft.com/addons/detail/custom-new-tab/onagfgjlokaciajhjmajljcfanonbmia) als Workaround für "Startseite" 
 - 💬 weitere Tipps von euch?
-
----
-
-### Autostart / Automatismen 👟
-
-💬 Was machen eure Geräte so?
-
-<ul>
- <li class="fragment">Updatemeldungen
- <li class="fragment">Autoplay (YouTube, SRF, ..)
- <li class="fragment">Benachrichtigungen / Sounds
- <li class="fragment">Ungewollte Apps
-</ul>
-
---
-
-### Einstellungen / Lösungen
-
-⚙️ Funktion in Programm selbst suchen ✅
-
-#### Alternativ:
-
-- Windows: [Autoruns herunterladen](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
-  - oder msconfig.exe (braucht Admin)
-- macOS: [Launchcontrol (Trialversion)](https://www.soma-zone.com/download/)
-
---
-
-### App-Auswahl / Selbst installieren 💡
-
-[alternativeto.net](https://alternativeto.net/) für Software / Dienste
-
-<p style="text-align: left;">Tipps:</p>
-
-- vertrauenswürdige Downloadquellen
-- "Benutzerdefiniert" und [PuP](https://en.wikipedia.org/wiki/Potentially_unwanted_program) abwählen ✅
-- [Portable Apps (primär Windows)](https://portableapps.com/de)
 
 ---
 
@@ -174,6 +145,43 @@ Tipp: Dienste unter https://tosdr.org/ vergleichen 🔍
 - 🗜️ Reduzierte Foliengrösse: Hochladen in LMS / als PDF einbetten
 - 🔗 Link zu Powerpoint365, OnlyOffice, o.ä. benutzen/verschicken
 - ... 💬
+
+---
+
+### Autostart / Automatismen 👟
+
+💬 Was machen eure Geräte so?
+
+<ul>
+ <li class="fragment">Updatemeldungen
+ <li class="fragment">Autoplay (YouTube, SRF, ..)
+ <li class="fragment">Benachrichtigungen / Sounds
+ <li class="fragment">Ungewollte Apps
+</ul>
+
+--
+
+### Einstellungen / Lösungen
+
+⚙️ Funktion in Programm selbst suchen ✅
+
+#### Alternativ:
+
+- Windows: [Autoruns herunterladen](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+  - oder msconfig.exe (braucht Admin)
+- macOS: [Launchcontrol (Trialversion)](https://www.soma-zone.com/download/)
+
+--
+
+### App-Auswahl / Selbst installieren 💡
+
+[alternativeto.net](https://alternativeto.net/) für Software / Online-Dienste
+
+<p style="text-align: left;">Tipps:</p>
+
+- vertrauenswürdige Downloadquellen
+- "Benutzerdefiniert" und [PuP](https://en.wikipedia.org/wiki/Potentially_unwanted_program) abwählen ✅
+- [Portable Apps (primär Windows)](https://portableapps.com/de)
 
 ---
 
