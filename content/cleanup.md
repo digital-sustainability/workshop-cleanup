@@ -65,7 +65,13 @@ Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 ---
 
 ### Facts & Figures 
-(Inputs Jan Bieser) 
+
+Was bedeutet digitale Suffizienz?
+Wie können wir als Individuen digital suffizient unterwegs sein?
+ - Hardware-Suffizienz
+ - Software-Suffizienz
+ - Nutzungs-Suffizienz
+ - Ökonomische-Suffizienz / Nachhaltige Wirtschaft
 
 ---
 
