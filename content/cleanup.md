@@ -56,22 +56,28 @@ Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 
 ---
 
-## 🪝 Aufhänger / Fakten
+## 🪝 Aufhänger
 
 ### Ich vs. Mein Gerät:
 
-<img src="content/wordcloud_w.png" height="500px" />
+<img src="content/wordcloud_w.png" height="500px" alt="Begriffe und Chaos als Wordcloud" />
 
 ---
 
-### Facts & Figures 
+### Fakten & Zahlen 🌍
 
-Was bedeutet digitale Suffizienz?
+- Video macht über 70% des (auch mobilen) Internet-Datenverkehrs aus
+- Studie 2023: Eine KI-Anfrage benötigt wahrscheinlich 10x mehr Energie eine Keyword-Suche ([aktuellere Zahlen](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)
+
+--
+
+### Was bedeutet [digitale Suffizienz](https://link.springer.com/article/10.1007/s12243-022-00914-x)?
+
 Wie können wir als Individuen digital suffizient unterwegs sein?
  - Hardware-Suffizienz
  - Software-Suffizienz
  - Nutzungs-Suffizienz
- - Ökonomische-Suffizienz / Nachhaltige Wirtschaft
+ - Ökonomische Suffizienz (Nachhaltige Wirtschaft)
 
 ---
 
