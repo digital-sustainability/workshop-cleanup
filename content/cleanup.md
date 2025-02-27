@@ -242,8 +242,6 @@ Note:
 
 ### Merci!
 
-<img src="https://openeducationday.ch/wp-content/uploads/sites/5/2024/03/oed-logo-finish-export.svg" height="300px" />
-
 ![CC-by](https://i.creativecommons.org/l/by/4.0/88x31.png "CC-by IPST BFH-W")
 [bfh.ch/ipst](https://www.bfh.ch/ipst)<br />
 [Source](https://github.com/digital-sustainability/workshop-cleanup/blob/main/content/cleanup.md) licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)<br />
