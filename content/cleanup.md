@@ -74,10 +74,10 @@ Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 ### Was bedeutet [digitale Suffizienz](https://link.springer.com/article/10.1007/s12243-022-00914-x)?
 
 Wie können wir als Individuen digital suffizient unterwegs sein?
- - Hardware-Suffizienz: weniger, ressourcenschonenderer und länger genutze Geräte
- - Software-Suffizienz: energieeffiziente und datensparsame Software
- - Nutzungs-Suffizienz: nachhaltiges Verhalten durch digitale Technik fördern
- - Ökonomische Suffizienz: nachhaltige Wirtschaft durch digitale Technik fördern
+ - 💻 Hardware-Suffizienz: weniger, ressourcenschonenderer und länger genutze Geräte
+ - 🧮 Software-Suffizienz: energieeffiziente und datensparsame Software
+ - 🌍 Nutzungs-Suffizienz: nachhaltiges Verhalten durch digitale Technik fördern
+ - 💳 Ökonomische Suffizienz: nachhaltige Wirtschaft durch digitale Technik fördern
 
 ---
 
