@@ -67,7 +67,7 @@ Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 ### Fakten & Zahlen 🌍
 
 - Video macht über 70% des (auch mobilen) Internet-Datenverkehrs aus
-- Studie 2023: Eine KI-Anfrage benötigt wahrscheinlich 10x mehr Energie eine Keyword-Suche ([aktuellere Zahlen](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)
+- Studie 2023: Eine KI-Anfrage benötigt wahrscheinlich 10x mehr Energie eine Keyword-Suche ([aktuellere Zahlen](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))
 
 --
 
