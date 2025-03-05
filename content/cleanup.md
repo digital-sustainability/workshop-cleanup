@@ -79,6 +79,14 @@ Wie können wir als Individuen digital suffizient unterwegs sein?
  - 🌍 Nutzungs-Suffizienz: nachhaltiges Verhalten durch digitale Technik fördern
  - 💳 Ökonomische Suffizienz: nachhaltige Wirtschaft durch digitale Technik fördern
 
+Note:
+- Suchmaschinen: Wer regelmäßig eine bestimmte Website besucht, könne diese besten im Browser als Lesezeichen speichern und direkt aufrufen. Das spare den Umweg über eine Suchmaschine.
+- Soziale Netzwerke: „Je weniger Daten gespeichert, übertragen und genutzt werden, desto weniger Energie benötigen wir“. Videodateien
+sind besonders datenintensiv und machen heute weit über die Hälfte des Internetverkehrs aus. Daher gilt es, den Videokonsum wo möglich zu reduzieren.
+- Videokonferenzen: Ein zweischneidiges Schwert. Wenn ein Video-Call eine Autofahrt oder gar eine Flugreise ersetzt, gewinnt das Klima. Doch auch hochauflösende Konferenzen verursachen Emissionen
+- E-Mails: Studien zufolge verursacht eine einfache E-Mail einen CO2-Ausstoß von bis zu 0,3 Gramm. Große E-Mails mit Anhang sind fast hundertfach so klimaschädlich. empfehlen ihren Usern daher, alte E-Mails zu löschen, unnötige CC zu vermeiden und große Dateien lieber in die Cloud zu stellen. So können Empfänger bei Bedarf auf den Link klicken und die gewünschten Dateien herunterladen
+- Gerätenutzung: Ob Handy, Computer oder internetfähiger Fernseher: „Die meisten Emissionen fallen bei der Produktion eines Geräts an. Am umweltfreundlichsten sei es daher, die Technik mit Ökostrom und möglichst lange zu betreiben.
+
 ---
 
 ### Web-Browser 🌐
