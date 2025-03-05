@@ -66,8 +66,28 @@ Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 
 ### Fakten & Zahlen 🌍
 
-- Video macht über 70% des (auch mobilen) Internet-Datenverkehrs aus
-- Studie 2023: Eine KI-Anfrage benötigt wahrscheinlich 10x mehr Energie eine Keyword-Suche ([aktuellere Zahlen](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))
+- Video macht über 70% des (auch mobilen) Internet-Datenverkehrs aus 
+- Steigendes Datenvolumen durch immer dateninsensivere Applikationen wie KI oder das Metaverse <br />
+*"Ein Austausch mit KI kostet wahrscheinlich 10x mehr als eine Keyword-Suche"*
+     - John Hennessy, Chairman Alphabet, 2023 <br />
+([aktuellere Zahlen zum Energieverbrauch künstlicher Intelligenz](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))
+
+
+Note:
+- Video-Apps hatten den grössten Anteil vom mobilem Datenverkehr im Jahr 2024, gefolgt von den Sozialen Netzwerken und Software-Updates
+
+--
+
+### Wie kann man den Fussabdruck des IKT-Sektors senken?
+
+ - Wechsel zu effizienteren Endgeräten z.B. von PCs und TVs zu Smartphones
+ - Mehr Einsatz von erneuerbaren Energien in der Geräte-Produktion und Nutzung
+ - Steigende Geräte-Lebensdauer
+
+Note:
+- Gerätenutzung: Ob Handy, Computer oder internetfähiger Fernseher: „Die meisten Emissionen fallen bei der Produktion eines Geräts an. Am umweltfreundlichsten sei es daher, die Technik mit Ökostrom und möglichst lange zu betreiben.
+- Steigerung der Energieeffizienz; Betrieb mit Strom aus erneuerb. Quellen; nur so viel Infrastruktur betreiben wie nötig
+- Produktion und Lieferkette vergrünen; Weniger Geräte herstellen
 
 --
 
@@ -85,7 +105,6 @@ Note:
 sind besonders datenintensiv und machen heute weit über die Hälfte des Internetverkehrs aus. Daher gilt es, den Videokonsum wo möglich zu reduzieren.
 - Videokonferenzen: Ein zweischneidiges Schwert. Wenn ein Video-Call eine Autofahrt oder gar eine Flugreise ersetzt, gewinnt das Klima. Doch auch hochauflösende Konferenzen verursachen Emissionen
 - E-Mails: Studien zufolge verursacht eine einfache E-Mail einen CO2-Ausstoß von bis zu 0,3 Gramm. Große E-Mails mit Anhang sind fast hundertfach so klimaschädlich. empfehlen ihren Usern daher, alte E-Mails zu löschen, unnötige CC zu vermeiden und große Dateien lieber in die Cloud zu stellen. So können Empfänger bei Bedarf auf den Link klicken und die gewünschten Dateien herunterladen
-- Gerätenutzung: Ob Handy, Computer oder internetfähiger Fernseher: „Die meisten Emissionen fallen bei der Produktion eines Geräts an. Am umweltfreundlichsten sei es daher, die Technik mit Ökostrom und möglichst lange zu betreiben.
 
 ---
 
