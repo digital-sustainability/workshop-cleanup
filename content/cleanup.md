@@ -9,7 +9,7 @@ kristelle.pluess@bfh.ch<br />
 annique.lombard@bfh.ch
 <br /><br />
 Los geht's: https://ige.li/cleanup 👈🏼<br />
-(oder [PDF-Download](cleanup-workshop-oed.pdf))
+(oder [PDF-Download](cleanup-workshop-ub.pdf))
 <br /><br />
 💡 "Esc"-Taste in [reveal.js-Präsentation](https://github.com/bfh/reveal.js/)
 
@@ -27,23 +27,24 @@ Vorteile der Onlineversion (Link oben) dieser Präsentation:
 
 - Intro zur "Clean Up Session! 🧹"
 - Inputs
- - 🌐 Browser, Settings + Plugins
- - ☁️ Cloud, Ablage...
- - 👟 Apps, Automatismen...
-- DIY mit Support 💬
-- Schlussrunde
+  - 🌐 Browser, Settings + Plugins
+  - ☁️ Cloud, Ablage...
+  - 👟 Apps, Automatismen...
+- DIY mit Support 🛠️🧰
+- Schlussrunde 💬
 
-Note: 
+Note:
 Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 10:00 Hallo & Vorstellungsrunde
 10:15 Intro & Relevanz (Inputs Jan, Fakten)
 10:22 Themenbereiche (3)
+
 - (20') Browser / Suchmaschinen (Cookies, Notifications, Autoplay mit Mini-hands on)
-- (15') Ablagen (Bedarf, Austasuch Good Pracice) 
+- (15') Ablagen (Bedarf, Austasuch Good Pracice)
 - (8') Automatismen (YouTube & Co, Smartphone & Apps (UniBE Mobile App))
-11:05 DIY mit Support
-11:20 Schlussrunde mit Take-home messages
-   
+  11:05 DIY mit Support
+  11:20 Schlussrunde mit Take-home messages
+
 ---
 
 <!-- .slide: data-background="#fff5c1" -->
@@ -66,25 +67,25 @@ Zeitplan: 90' (mit ca. 15 Teilnehmenden)
 
 ### Fakten & Zahlen 🌍
 
-- Video macht über 70% des (auch mobilen) Internet-Datenverkehrs aus 
-- Steigendes Datenvolumen durch immer dateninsensivere Applikationen wie KI oder das Metaverse <br />
-*"Ein Austausch mit KI kostet wahrscheinlich 10x mehr als eine Keyword-Suche"*
-     - John Hennessy, Chairman Alphabet, 2023 <br />
-([aktuellere Zahlen zum Energieverbrauch künstlicher Intelligenz](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))
-
+- Video macht über 70% des (auch mobilen) Internet-Datenverkehrs aus
+- Steigendes Datenvolumen durch immer datenintensivere Applikationen wie KI oder das Metaverse <br />
+  _"Ein Austausch mit KI kostet wahrscheinlich 10x mehr als eine Keyword-Suche"_ - John Hennessy, Chairman Alphabet, 2023 <br />
+  ([aktuellere Zahlen zum Energieverbrauch künstlicher Intelligenz](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use))
 
 Note:
+
 - Video-Apps hatten den grössten Anteil vom mobilem Datenverkehr im Jahr 2024, gefolgt von den Sozialen Netzwerken und Software-Updates
 
 --
 
 ### Wie kann man den Fussabdruck des IKT-Sektors senken?
 
- - Wechsel zu effizienteren Endgeräten z.B. von PCs und TVs zu Smartphones
- - Mehr Einsatz von erneuerbaren Energien in der Geräte-Produktion und Nutzung
- - Steigende Geräte-Lebensdauer
+- Wechsel zu effizienteren Endgeräten z.B. von PCs und TVs zu Smartphones
+- Höherer Anteil erneuerbarer Energien in Herstellung und Nutzung
+- Längere Lebensdauer der Geräte
 
 Note:
+
 - Gerätenutzung: Ob Handy, Computer oder internetfähiger Fernseher: „Die meisten Emissionen fallen bei der Produktion eines Geräts an. Am umweltfreundlichsten sei es daher, die Technik mit Ökostrom und möglichst lange zu betreiben.
 - Steigerung der Energieeffizienz; Betrieb mit Strom aus erneuerb. Quellen; nur so viel Infrastruktur betreiben wie nötig
 - Produktion und Lieferkette vergrünen; Weniger Geräte herstellen
@@ -93,16 +94,17 @@ Note:
 
 ### Was bedeutet [digitale Suffizienz](https://link.springer.com/article/10.1007/s12243-022-00914-x)?
 
-Wie können wir als Individuen digital suffizient unterwegs sein?
- - 💻 Hardware-Suffizienz: weniger, ressourcenschonenderer und länger genutze Geräte
- - 🧮 Software-Suffizienz: energieeffiziente und datensparsame Software
- - 🌍 Nutzungs-Suffizienz: nachhaltiges Verhalten durch digitale Technik fördern
- - 💳 Ökonomische Suffizienz: nachhaltige Wirtschaft durch digitale Technik fördern
+- 💻 Hardware-Suffizienz: weniger, ressourcenschonendere<br />und länger genutze Geräte
+- 🧮 Software-Suffizienz: energieeffiziente und datensparsame Software
+- 🌍 Nutzungs-Suffizienz: nachhaltiges Verhalten durch digitale Technik fördern
+- 💳 Ökonomische Suffizienz: nachhaltige Wirtschaft durch digitale Technik fördern
 
 Note:
+Wie können wir als Individuen digital suffizient unterwegs sein?
+
 - Suchmaschinen: Wer regelmäßig eine bestimmte Website besucht, könne diese besten im Browser als Lesezeichen speichern und direkt aufrufen. Das spare den Umweg über eine Suchmaschine.
 - Soziale Netzwerke: „Je weniger Daten gespeichert, übertragen und genutzt werden, desto weniger Energie benötigen wir“. Videodateien
-sind besonders datenintensiv und machen heute weit über die Hälfte des Internetverkehrs aus. Daher gilt es, den Videokonsum wo möglich zu reduzieren.
+  sind besonders datenintensiv und machen heute weit über die Hälfte des Internetverkehrs aus. Daher gilt es, den Videokonsum wo möglich zu reduzieren.
 - Videokonferenzen: Ein zweischneidiges Schwert. Wenn ein Video-Call eine Autofahrt oder gar eine Flugreise ersetzt, gewinnt das Klima. Doch auch hochauflösende Konferenzen verursachen Emissionen
 - E-Mails: Studien zufolge verursacht eine einfache E-Mail einen CO2-Ausstoß von bis zu 0,3 Gramm. Große E-Mails mit Anhang sind fast hundertfach so klimaschädlich. empfehlen ihren Usern daher, alte E-Mails zu löschen, unnötige CC zu vermeiden und große Dateien lieber in die Cloud zu stellen. So können Empfänger bei Bedarf auf den Link klicken und die gewünschten Dateien herunterladen
 
@@ -150,7 +152,7 @@ Tipp: Dienste unter https://tosdr.org/ vergleichen 🔍
 #### Funktionen / Erweiterungen 🧩
 
 - Inkognito-Modus? 🕶️
-- Edge-Browser: 📁 [Custom new Tab](https://microsoftedge.microsoft.com/addons/detail/custom-new-tab/onagfgjlokaciajhjmajljcfanonbmia) als Workaround für "Startseite" 
+- Edge-Browser: 📁 [Custom new Tab](https://microsoftedge.microsoft.com/addons/detail/custom-new-tab/onagfgjlokaciajhjmajljcfanonbmia) als Workaround für "Startseite"
 - 💬 weitere Tipps von euch?
 
 ---
@@ -269,7 +271,7 @@ Note:
 
 ### Merci!
 
-![CC-by](https://i.creativecommons.org/l/by/4.0/88x31.png "CC-by IPST BFH-W")
+![CC-by IPST BFH-W](https://i.creativecommons.org/l/by/4.0/88x31.png "CC-by IPST BFH-W")
 [bfh.ch/ipst](https://www.bfh.ch/ipst)<br />
 [Source](https://github.com/digital-sustainability/workshop-cleanup/blob/main/content/cleanup.md) licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)<br />
-[PDF-Download Folien](cleanup-workshop-oed.pdf)
+[PDF-Download Folien](cleanup-workshop-ub.pdf)
